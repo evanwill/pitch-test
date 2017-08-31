@@ -2,11 +2,11 @@ Hello!
 
 +++
 
-Hola!
+Vertical slide One
 
 ---
 
-Goodbye!
+Horizontal slide
 
 +++
 
